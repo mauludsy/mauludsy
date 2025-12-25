@@ -17,7 +17,7 @@ Data Science enthusiast with experience in data processing, analysis, and modeli
 
 ### 1. STUNTING RISK PREDICTION SYSTEM FOR INFANTS USING THE K-NEAREST NEIGHBOR ALGORITHM
 - Description: This project develops a stunting risk prediction system for infants using a machine learning approach. Two algorithms, K-Nearest Neighbor (KNN) and Random Forest, were tested and compared to determine the best performance based on model evaluation results. The experiments showed that the KNN algorithm achieved better performance, leading to its selection and implementation as the primary model in the system. The system is equipped with a user interface that allows users to perform predictions directly.
-Libraries & Tools: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Joblib)
+- Libraries & Tools: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Joblib)
 
 
 ### 2. HEALTH SCORE PREDICTION AND ANALYSIS USING REGRESSION WITH RECURSIVE FEATURE ELIMINATION (RFE)
