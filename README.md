@@ -8,7 +8,7 @@ Data Science enthusiast with experience in data processing, analysis, and modeli
 - Python (Data Analysis & Machine Learning)
 - SQL (Basic Query & Data Processing)
 - Java (Dasar Pemrograman & OOP)
-- Machine Learning (KNN, Random Forest, Gradient Boosting)
+- Machine Learning
 - Analisis & Visualisasi Data
 - Git & GitHub
 
