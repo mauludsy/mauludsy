@@ -25,4 +25,7 @@ Data Science enthusiast with experience in data processing, analysis, and modeli
 - Libraries & Tools: Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Joblib)
 
 
+### 3. STRESS LEVEL PREDICTION USING SOCIAL MEDIA DATA
+- Description: This project aims to predict an individual’s health score based on lifestyle-related factors using a Random Forest  model. The ensemble-based approach is applied to capture complex and nonlinear relationships between lifestyle variables and health outcomes. Feature selection is performed to identify the most influential factors and to evaluate the model’s performance before and after feature selection.
+- Libraries & Tools : Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Joblib, Pydot)
   
